@@ -6,13 +6,7 @@ title: .NET Foundation Board Member Elections
 
 We recently announced some big changes to the .NET Foundation, and one of the biggest is that we’re moving to a community elected Board of Directors. We're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community. This structure will help the .NET Foundation scale and better serve the .NET ecosystem.
 
-**If you’re passionate about open source .NET, we’d like you to think about running in the elections! This post will explain the details, and hopefully get you to consider it, or maybe encourage someone else to.**
-
-This post is the third in a series:
-
-*   [Why You Should Join: Part 1 - Voting Member](https://dotnetfoundation.org/blog/2019/01/14/why-you-should-join-part-1-join-as-a-voting-member)
-*   [Why You Should Join: Part 2 - Corporate Sponsor](https://dotnetfoundation.org/blog/2019/01/16/why-you-should-join-part-2---corporate-sponsor)
-*   Why You Should Join: Part 3 - Board Member (this post)
+**If you’re passionate about open source .NET, we’d like you to think about running in the elections!**
 
 ## What’s Changed?
 
@@ -52,8 +46,6 @@ If you’re worried about the time commitment – well, it’s true, we need you
 If there’s something preventing you from joining the .NET Foundation as a voting member to be eligible to run in the election, talk to us! Our [previous post on joining as a voting member](https://dotnetfoundation.org/blog/2019/01/14/why-you-should-join-part-1-join-as-a-voting-member) hopefully explains why contributions or dues shouldn’t get in your way.
 
 ## How Do Campaigns and Elections Work?
-
-We’ll be announcing more details in the next post, and kicking off the one-month campaign and election period on January 28\. But here’s the high level:
 
 *   We’ll be running a simple campaign mini-site using GitHub pages and pull requests. Candidates will submit a campaign statement as a markdown file pull request and can link off to other information if they want (e.g. video, podcast interviews, projects, etc.).
 *   We’d love to see community discussion wherever it happens – Twitter, forums, etc. – following the [standard code of conduct](https://dotnetfoundation.org/code-of-conduct).

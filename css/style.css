@@ -60,6 +60,10 @@ p {
     margin-bottom: 2rem;
 }
 
+.container {
+    min-height: 20rem;
+}
+
 .page-section {
     width: 100%;
 }
@@ -161,7 +165,11 @@ p {
     font-size: 2rem;
 }
 
-.page-section p, ul li {
+.page-section p {
+    font-size: 16px;
+}
+
+.page-section ul li {
     font-size: 16px;
     margin-bottom: 0;
 }

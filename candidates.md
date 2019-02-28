@@ -1,12 +1,16 @@
 ---
-permalink: /campaign-2019/index.html
+permalink: /candidates
 title: Campaign Statements
 ---
 
+{% if site.campaign-2019.size == 0 %}
+### We're just getting started!
+
+Hey, we just launched the election and are waiting for our first election statements. Interested in [joining the race?](/campaign)
+{% else %}
 ### Here are the campaign statements for our candidates.
-
-Interested in running? Here's how to submit a campaign statement.
-
-{% for candidate in site.campaign-2019 %}
-* [{{ candidate.title }}]({{ candidate.url }})
-{% endfor %}
+Interested in joining the race? [Here's how to get started](/campaign).
+  {% for candidate in site.campaign-2019 %}
+  * [{{ candidate.title }}]({{ candidate.url }})
+  {% endfor %}
+{% endif %}

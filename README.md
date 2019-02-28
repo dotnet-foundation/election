@@ -1,2 +1,1 @@
-## .NET Foundation Membership information
-
+## This is the mini-site for the .NET Foundation Board Member Elections

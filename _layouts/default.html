@@ -8,23 +8,19 @@
     <div class="row">
       <main id="site_container" role="main" class="col order-3">
         {% if page.url == '/' %}
-          {%- include banner.html -%}
+        {%- include banner.html -%}
         {% endif %}
         <section class="page-section page-section">
           <div class="page-section_container container">
             {{ content }}
           </div>
         </section>
+        {%- include footer.html -%}
+      </main>
     </div>
-
-    {%- include footer.html -%}
-    </main>
   </div>
-
-
-  </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg="
-    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+    integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
   <script>anchors.add();</script>
   {% if site.google_analytics %}
   <script>
@@ -40,6 +36,8 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+  <script src="//instant.page/1.2.1" type="module"
+    integrity="sha384-/IkE5iZAM/RxPto8B0nvKlMzIyCWtYocF01PbGGp1qElJuxv9J4whdWBRtzZltWn"></script>
 </body>
 
 </html>

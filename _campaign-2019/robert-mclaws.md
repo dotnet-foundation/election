@@ -1,5 +1,5 @@
 ---
-title: Robert McLaws, Candidate for .NET Foundation Board
+title: Robert McLaws
 layout: default
 ---
 
@@ -13,7 +13,7 @@ layout: default
 </div>
 
 ## About Me
-I'm a 36 year old husband to a wonderful wife and father to 3 amazing girls from Tallahassee, FL. I've been programming for as long as I can remember, starting out on Apple IICs in the early 90's... and have neen a professional developer my entire adult life.
+I'm a 36 year old husband to a wonderful wife and father to 3 amazing girls from Tallahassee, FL. I've been programming for as long as I can remember, starting out on Apple IICs in the early 90's... and have been a professional developer my entire adult life.
 
 I'm currently CEO of CloudNimble, Inc., a consulting firm that specializes in Microsoft technologies. We're modernizing DevOps for the State of Florida, spearheading upgrades to the Agency for Health Care Administration, including a modern enterprise application that helps the agency investigate Medicaid abuse. But my passion is helping startups, which is why we're building [🔥 **BurnRate**](https://burnrate.io), an ASP.NET Core app that helps startups scale out their sales teams.
 
@@ -46,23 +46,10 @@ I've been developing on the .NET Framework my entire professional career. I've h
 * [My old .NET blog](https://weblogs.asp.net/rmclaws)
 * [Microsoft OData](https://github.com/odata)
 * [Microsoft Restier](https://github.com/odata/restier)
-* GitHub profile for my previous company: @advancedrei
-* NuGet Profile #1: https://www.nuget.org/profiles/AdvancedREI
-* NuGet Profile #2: https://www.nuget.org/profiles/CloudNimble
+* GitHub profile for my previous company: [https://github.com/advancedrei](https://github.com/advancedrei)
+* NuGet Profile #1: [https://www.nuget.org/profiles/CloudNimble](https://www.nuget.org/profiles/CloudNimble)
+* NuGet Profile #2: [https://www.nuget.org/profiles/AdvancedREI](https://www.nuget.org/profiles/AdvancedREI)
 
 ## Contact Information
-* GitHub #1: @RobertMcLaws
-* GitHub #2: @CloudNimble
-
-<!--
-Link References
--->
-
-[twitter-robert]:https://twitter.com/robertmclaws
-[twitter-cn]:https://twitter.com/cloud_nimble
-[code-of-conduct]:https://opensource.microsoft.com/codeofconduct/
-
-[github-version-img]:https://img.shields.io/github/release/ryanoasis/nerd-fonts.svg?style=for-the-badge
-[gitter-img]:https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=for-the-badge
-[code-climate-img]:https://img.shields.io/codeclimate/issues/github/ryanoasis/nerd-fonts.svg?style=for-the-badge
-[code-of-conduct-img]: https://img.shields.io/badge/code%20of-conduct-00a1f1.svg?style=for-the-badge&logo=windows
+* GitHub #1: [https://github.com/RobertMcLaws](https://github.com/RobertMcLaws)
+* GitHub #2: [https://github.com/CloudNimble](https://github.com/CloudNimble)

@@ -1,3 +1,8 @@
+---
+title: Shaun Walker
+layout: default
+---
+
 # .NET Foundation Campaign: Shaun Walker
 
 ![Shaun Walker](https://www.siliqon.com/portals/0/shaun%20walker.png)

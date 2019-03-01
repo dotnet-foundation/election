@@ -5,6 +5,8 @@ layout: default
 
 # .NET Foundation Campaign: Oren Novotny
 
+<img src="https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Images/oren-novotny.jpg" width="200" height="200" alt="Photo of Oren Novotny" />
+
 ## Why I'm Running
 I am currently a member of the board and the Foundation's de facto CISO. I am also a Microsoft [Regional Director](https://rd.microsoft.com/en-us/oren-novotny), [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000913?fullName=Oren%20Novotny), and Chief Architect of DevOps & Modern Software at [Insight](https://www.insight.com/en_US/solve/digital-innovation.html).   Over the past several years, I have served on the Foundation's Advisory Council and am the author and of its [code signing service](https://github.com/onovotny/SignService). I am passionate about helping projects succeed and am a big believer of secure, and fully automated DevOps. To that end, I run the Foundation's Azure DevOps org and have helped almost all of the current projects onboard with their build system and add code signing. I also helped the Foundation establish a partnership with [DigiCert](https://www.digicert.com/) to enable these services.
 

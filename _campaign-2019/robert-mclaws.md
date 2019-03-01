@@ -2,10 +2,14 @@
 title: Robert McLaws, Candidate for .NET Foundation Board
 layout: default
 ---
-<div align="center"><img src="https://user-images.githubusercontent.com/1657085/53609747-504f0580-3b96-11e9-979d-0727bcc63f42.png" width=200>
-<h1> .NET Foundation Campaign: Robert McLaws</h1>
 
-[![Twitter - Robert McLaws][twitter-img-robert]][twitter-robert]  [![Twitter - CloudNimble][twitter-img-cn]][twitter-cn]
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/1657085/53609747-504f0580-3b96-11e9-979d-0727bcc63f42.png" width="200" />
+  <h1> .NET Foundation Campaign: Robert McLaws</h1>
+  <p>
+    <a href="https://twitter.com/robertmclaws"><img src="https://img.shields.io/badge/twitter-@robertmclaws-55acee.svg?style=for-the-badge&logo=twitter" alt="Twitter - Robert McLaws"></a>  
+    <a href="https://twitter.com/cloud_nimble"><img src="https://img.shields.io/badge/twitter-@cloud__nimble-55acee.svg?style=for-the-badge&logo=twitter" alt="Twitter - CloudNimble"></a>
+  </p>
 </div>
 
 ## About Me
@@ -62,5 +66,3 @@ Link References
 [gitter-img]:https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=for-the-badge
 [code-climate-img]:https://img.shields.io/codeclimate/issues/github/ryanoasis/nerd-fonts.svg?style=for-the-badge
 [code-of-conduct-img]: https://img.shields.io/badge/code%20of-conduct-00a1f1.svg?style=for-the-badge&logo=windows
-[twitter-img-robert]:https://img.shields.io/badge/twitter-@robertmclaws-55acee.svg?style=for-the-badge&logo=twitter
-[twitter-img-cn]:https://img.shields.io/badge/twitter-@cloud__nimble-55acee.svg?style=for-the-badge&logo=twitter

@@ -49,3 +49,7 @@ I have contributed to discussions in libraries such as [Polly](https://github.co
 ## Contact Information
 * Twitter: [@stevejgordon](https://twitter.com/stevejgordon)
 * GitHub: [stevejgordon](https://github.com/dotnet)
+
+## Campaign Video
+
+I've put together a short campaign video summarising the key points of my campaign statement. [Click Here](https://youtu.be/WRWmMfZMMIw) to view it.

@@ -23,3 +23,4 @@ The board completely runs the .NET Foundation. They decide how the money is spen
 *   To keep informed, follow us on Twitter at [@dotnetfdn](https://twitter.com/dotnetfdn)... or better yet, [subscribe to our newsletter!](http://eepurl.com/dhL_qb)
 
 Interested? Watch for our next post with specifics on the elections process, and feel free to ping us at [contact@dotnetfoundation.org](mailto:contact@dotnetfoundation.org) with questions.
+

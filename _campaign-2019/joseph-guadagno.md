@@ -8,7 +8,7 @@ layout: default
 ## About Me
 I am a Microsoft Developer Service MVP. I have been an MVP since 2008. I have spoken at multiple conferences throughout the last ten years.
 
-[image]: https://avatars3.githubusercontent.com/u/3209610?s=40&v=4 "Joseph Guadagno:
+![alt text](https://avatars3.githubusercontent.com/u/3209610?s=250 "Joseph Guadagno")
 
 ## Why I'm Running
 For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as an Engineering Director at Quicken Loans, based in Detroit, MI. I am a public speaker and present internationally on a lot of different [technology topics](http://www.josephguadagno.net/presentations/). 

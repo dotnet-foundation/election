@@ -6,7 +6,7 @@ layout: default
 # .NET Foundation Campaign: Ginny Caughey
 
 ## Why I'm Running
-![build2019headshot 50jpg](https://user-images.githubusercontent.com/6218283/53746947-38b29e00-3e70-11e9-982a-a0ddb0a9134b.jpg)
+<img src="https://user-images.githubusercontent.com/6218283/53746947-38b29e00-3e70-11e9-982a-a0ddb0a9134b.jpg" width="200" height="200" alt="Photo of Oren Novotny" />
 
 I've been building appications that rely on .NET since version 1.0 and can gratefully say that my company owes its success to .NET in an important way. I'm now responsible for maintaining and enhancing .NET-based applications using Windows Forms and WPF relied on by local governments and enterprises all over the United States and Canada. (https://www.wasteworksonline.com/about/)
 

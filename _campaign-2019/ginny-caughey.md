@@ -15,9 +15,9 @@ Because my company's customers are large and small, governmental and private, mu
 ## My .NET Contributions
 My first experience with Open Source was as a founding member of [OpenNETCF](http://opennetcf.org/about-opennetcf/) That was a project for .NET's little sister .NET Compact Framework and its mission was to provide "missing" functionality mainly using P/Invoke to Windows CE APIs. That was so long ago that Microsoft engineers were not even allowed to visit our site at the time!
 
-Fortunately times have changed a lot and more recently I've been involved with the [Windows Community Toolkit] (https://github.com/windows-toolkit/WindowsCommunityToolkit), 
+Fortunately times have changed a lot and more recently I've been involved with the [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit), 
 
-I was such a noisy complainer about missing SqlClient support in .NET Standard used by UWP apps that I was invited to present at the Build conference the year that support was announced. [https://channel9.msdn.com/Events/Build/2017/B8012](https://channel9.msdn.com/Events/Build/2017/B8012) I also presented an updated version of that [session at Ignite] (https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2069) This experience convinced me that my needs and opinions mattered.
+I was such a noisy complainer about missing SqlClient support in .NET Standard used by UWP apps that I was invited to present at the Build conference the year that support was announced. [https://channel9.msdn.com/Events/Build/2017/B8012](https://channel9.msdn.com/Events/Build/2017/B8012) I also presented an updated version of that [session at Ignite](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2069) This experience convinced me that my needs and opinions mattered.
 
 This year I've been testing .NET Core 3.0 against my suite of production enterprise applications and look forward to working with improved Visual Studio tooling for Windows Forms and WPF using .NET Core 3.0.
 

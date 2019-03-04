@@ -8,7 +8,7 @@ That's great! Here's the information you need to decide if you'd like to move fo
 
 ## Who Can Run for a Board Seat?
 
-Any [voting member](https://dotnetfoundation.org/blog/2019/01/14/why-you-should-join-part-1-join-as-a-voting-member) can run for a board seat. That’s anyone who’s contributed to a .NET Foundation project and [applied for membership](https://dotnetfoundation.org/become-a-member).
+Any [voting member](https://dotnetfoundation.org/blog/2019/01/14/why-you-should-join-part-1-join-as-a-voting-member) can run for a board seat. That’s anyone who’s contributed to a .NET Foundation project and [applied for membership](https://dotnetfoundation.org/become-a-member). Contributions may include code contributions, documentation, or other significant project contribution, including evangelism, teaching, code, organizing events, etc. If in doubt, please ask us at contact@dotnetfoundation.org!
 
 ## Who Should Run for The Board?
 

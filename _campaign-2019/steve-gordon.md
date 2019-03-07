@@ -30,6 +30,8 @@ The second part of my vision aligns closely with my passion for helping develope
 
 I would focus resources to build upon the amazing work done by the Microsoft documentation teams; aiming to create a similar structure, quality and consistency of the documentation and samples available for .NET Foundation projects. This will lower the barrier of entry for developers, help guide best practices and build an even stronger eco-system of community libraries, that developers can depend on, in order to build world-class applications.
 
+You can also read more about my campaign in my recent [blog post](https://www.stevejgordon.co.uk/campaigning-for-a-dotnet-foundation-board-seat).
+
 ## My .NET Contributions
 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002866?fullName=Steve%20Gordon) and I've been developing software with .NET for over 15 years. I'm a senior software developer for [Madgex Ltd](https://www.madgex.com) and feel extremely lucky that my day job is also my hobby.
 
@@ -48,7 +50,7 @@ I have contributed to discussions in libraries such as [Polly](https://github.co
 
 ## Contact Information
 * Twitter: [@stevejgordon](https://twitter.com/stevejgordon)
-* GitHub: [stevejgordon](https://github.com/dotnet)
+* GitHub: [stevejgordon](https://github.com/stevejgordon)
 
 ## Campaign Video
 

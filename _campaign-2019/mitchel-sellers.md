@@ -1,5 +1,5 @@
 ---
-title: CEO, Flying Code Ninja, Open Source Supporter
+title: Mitchel Sellers
 layout: default
 ---
 

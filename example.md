@@ -1,6 +1,7 @@
 ---
 title: Example
 layout: default
+image: /img/dot_bot.png
 ---
 
 # .NET Foundation Campaign: [Your Name Here]

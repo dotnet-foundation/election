@@ -108,3 +108,49 @@
     width: 100%;
     height: 100%;
     background-color: rgba(104, 33, 122, 0.2); }
+/*
+ * adapted from
+ * https://bryanlrobinson.com/blog/2017/07/26/howto-css-grid-layout-to-make-a-simple-fluid-card-grid/
+ */
+.card-container {
+      display: grid;
+      padding: 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      grid-gap: 1rem;
+  }
+.card {
+    display: grid;
+}
+.card .button {
+    align-self: end;
+}
+.card {
+  box-shadow: 0px 1px 5px #555;
+  background-color: white;
+}
+.card__title {
+  font-size: 2rem;
+  padding: .5rem;
+  text-align: center;
+}
+.card__description {
+  padding: .5rem;
+  line-height: 1.6em;
+}
+.card__button {
+  display: block;
+  background-color: #68217a;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  transition: .3s ease-out;
+}
+
+.card__thumbnail {
+  text-align: center;
+}
+
+.card__thumbnail img {
+  height: 128px;
+}

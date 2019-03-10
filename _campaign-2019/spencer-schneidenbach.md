@@ -1,6 +1,7 @@
 ---
 title: Spencer Schneidenbach
 layout: default
+image: https://avatars1.githubusercontent.com/u/3771777?s=200&v=4
 ---
 
 # .NET Foundation Campaign: Spencer Schneidenbach

@@ -1,6 +1,7 @@
 ---
 title: Marc Bruins
 layout: default
+image: https://avatars3.githubusercontent.com/u/676025?s=200&u=d27539adff79207311f2090aff5baae13e663ec5&v=4
 ---
 
 # .NET Foundation Campaign: Marc Bruins

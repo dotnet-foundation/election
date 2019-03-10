@@ -1,6 +1,7 @@
 ---
 title: Robert McLaws
 layout: default
+image: https://user-images.githubusercontent.com/1657085/53609747-504f0580-3b96-11e9-979d-0727bcc63f42.png
 ---
 
 <div align="center">

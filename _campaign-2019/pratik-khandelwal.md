@@ -1,6 +1,7 @@
 ---
 title: Pratik Khandelwal
 layout: default
+image: https://user-images.githubusercontent.com/12965931/54035164-bc58eb80-41de-11e9-9faf-e717eba0165a.jpg
 ---
 
 # .NET Foundation Campaign: Pratik Khandelwal

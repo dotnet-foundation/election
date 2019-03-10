@@ -1,6 +1,7 @@
 ---
 title: Dave Glick
 layout: default
+image: https://user-images.githubusercontent.com/1020407/53698333-3a655e80-3da9-11e9-931e-39ae72bf1104.jpg
 ---
 
 # .NET Foundation Campaign: Dave Glick

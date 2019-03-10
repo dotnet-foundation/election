@@ -1,6 +1,7 @@
 ---
 title: Steve Gordon
 layout: default
+image: https://user-images.githubusercontent.com/3669103/53630658-7dd49700-3c08-11e9-8329-d5d6f27264c2.png
 ---
 
 # .NET Foundation Campaign: Steve Gordon

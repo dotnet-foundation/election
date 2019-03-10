@@ -1,6 +1,7 @@
 ---
 title: Joseph Guadagno
 layout: default
+image: https://avatars3.githubusercontent.com/u/3209610?s=250
 ---
 
 # .NET Foundation Campaign: Joseph Guadagno

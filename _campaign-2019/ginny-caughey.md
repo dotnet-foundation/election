@@ -1,6 +1,7 @@
 ---
 title: Ginny Caughey
 layout: default
+image: https://user-images.githubusercontent.com/6218283/53746947-38b29e00-3e70-11e9-982a-a0ddb0a9134b.jpg
 ---
 
 # .NET Foundation Campaign: Ginny Caughey

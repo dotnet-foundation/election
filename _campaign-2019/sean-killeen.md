@@ -8,7 +8,7 @@ image: https://avatars3.githubusercontent.com/u/2148318
 
 **Why I'm running, in short**: I love this community dearly, have grown up with it, and would jump at the chance to represent it and make it better. I hope that most who have interacted with me have found me to be helpful, collaborative, and passionate about advancing .NET's impact on our world.
 
-## What will I aim to do as a .NET Board Member?
+## What will I aim to do as a .NET Foundation Board Member?
 
 ### Establish and Clarify Personas / "User Types" and User Research for Those in the Sphere of the .NET Foundation
 

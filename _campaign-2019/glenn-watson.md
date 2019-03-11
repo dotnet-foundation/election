@@ -1,6 +1,7 @@
 ---
 title: Glenn Watson
 layout: default
+image: https://pbs.twimg.com/profile_images/1027299629790982144/flvLYaDN_400x400.jpg
 ---
 
 # .NET Foundation Campaign: Glenn Watson

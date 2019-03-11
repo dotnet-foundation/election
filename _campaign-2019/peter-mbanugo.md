@@ -1,6 +1,7 @@
 ---
 title: Peter Mbanugo
 layout: default
+image: https://avatars2.githubusercontent.com/u/4036118?s=400&v=4
 ---
 
 # .NET Foundation Campaign: Peter Mbanugo

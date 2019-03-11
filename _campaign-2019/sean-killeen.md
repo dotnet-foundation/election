@@ -26,7 +26,7 @@ I believe that if we're going to serve the various members of our community, we 
 * Microsoft maintainers in the OSS world who often receive incredible amounts of scrutiny and pushback
 * Maintainers of stagnant but popular OSS Projects
 
-And so on (I anticipate many more). By thinking about these different groups, considering their reactions, and confirming with people who identify with these personas or types, we can find the biggest impact, confirm the changes we make will have the intended effect, and communicate more clearly to various stakeholders.
+And so on (I anticipate many more). By thinking about these different groups, considering their reactions, and confirming with people who identify with these personas or types, we can find the biggest impact, confirm the changes we make will have the intended effect, and communicate more clearly to various stakeholders. I want to us to know our community more fully.
 
 ### Imapct Maps: A Technique to Drive the Foundation's Mission
 
@@ -55,6 +55,11 @@ I'd love to create impact mapping around:
 * "Add x amount of new contributors to .NET projects"
 * "Increase the awareness of the .NET Foundation's Mission & Potential in the larger Community"
 * "Add x amount more .NET Foundation Members"
+* "Ensure Sustainable .NET OSS Development" (though I'd want to make that more concrete in some ways)
+
+### An Example Impact Map
+
+[I started one here](https://mm.tt/1231198148?t=SYw6GdceY6) just to provide an idea of how these sorts of maps might start to take shape.
 
 ## Why I'm Running (the long version)
 

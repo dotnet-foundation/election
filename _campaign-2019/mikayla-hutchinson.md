@@ -1,13 +1,13 @@
 ---
 title: Mikayla Hutchinson
 layout: default
-image: https://avatars3.githubusercontent.com/u/183285?s=128&v=5
+image: https://avatars3.githubusercontent.com/u/183285?s=460&v=5
 ---
 
 # .NET Foundation Campaign: Mikayla Hutchinson
 
 <div align="center">
-<img alt="Mikayla" src="https://avatars3.githubusercontent.com/u/183285?s=128&v=5" style="border-radius: 5%" />
+<img alt="Mikayla" src="https://avatars3.githubusercontent.com/u/183285?s=460&v=5" style="border-radius: 5%; width: 200px" />
 </div>
 
 ## Why I'm Running

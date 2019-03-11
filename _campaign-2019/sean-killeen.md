@@ -1,6 +1,7 @@
 ---
 title: Sean Killeen
 layout: default
+image: https://avatars3.githubusercontent.com/u/2148318
 ---
 
 # .NET Foundation Campaign: Sean Killeen

@@ -1,11 +1,79 @@
 ---
 title: Sean Killeen
 layout: default
+image: https://avatars3.githubusercontent.com/u/2148318
 ---
 
 # .NET Foundation Campaign: Sean Killeen
 
-## Why I'm Running
+**Why I'm running, in short**: I love this community dearly, have grown up with it, and would jump at the chance to represent it and make it better. I hope that most who have interacted with me have found me to be helpful, collaborative, and passionate about advancing .NET's impact on our world.
+
+## What will I aim to do as a .NET Foundation Board Member?
+
+### Establish and Clarify Personas / "User Types" and User Research for Those in the Sphere of the .NET Foundation
+
+I believe that if we're going to serve the various members of our community, we need to attempt to capture their perspective and define them as stakeholders. So who is operating in our community? We have the ability to engage the overall community to think about these personas so that we can consider their perspective and seek input during conversations. We can also determine real people who idenitfy with one or many of these personas and can engage them in discussions around topics. Some user types, off the top of my head, could (but don't necessarily have to) include:
+
+* Burned out OSS Maintainers
+* F# community members who have a great established community and often compete with C# for resources / attention / value 
+* Newcomers to the OSS world
+* Time-limited would-be OSS contributors
+* would-be contributors who feel they have limited experience / skillset
+* Employees at "consumer-first" companies who largely consume open source without contributing back
+* Companies who are "consumer-first" by design
+* Community members who may be a bit demanding / entitled around how OSS works for them
+* Developers who are highly skepitcal of Microsoft but are intrigued by .NET
+* Microsoft maintainers in the OSS world who often receive incredible amounts of scrutiny and pushback
+* Maintainers of stagnant but popular OSS Projects
+
+And so on (I anticipate many more). By thinking about these different groups, considering their reactions, and confirming with people who identify with these personas or types, we can find the biggest impact, confirm the changes we make will have the intended effect, and communicate more clearly to various stakeholders. I want to us to know our community more fully.
+
+### Impact Maps: A Technique to Drive the Foundation's Mission
+
+For these types of organizations, I've been heavily inspired by [Gojko Adzic's book on Impact Mapping](https://www.impactmapping.org/book.html). At the risk of serious over-simplifying, I will sum it up by saying that for me, impact mapping is a way to bring many of your stakeholders along to achieve your goals, though that's not quite the original intended purpose (I'd be happy to speak about this subject at length with anyone). 
+
+Impact mapping starts with a (hopefully quantifiable, timeboxed) goal -- such as an example in the book, "achieve 1 million users for our video game platform". 
+
+From the Goal, we work outward in the following ways:
+
+* **Who** could help us achieve our goal
+* **How** could they change their behavior to help us achieve that goal
+* **What** could we do to influence them to make that change? 
+
+When we combine this with personas, impact mapping allows us to:
+
+* Encourage divergent thinking -- there are a lot of ways get to a goal
+* Open it up to personas / user types -- what could we do to help them make the behavioral changes we may wan to see?
+* Make the behavior changes we want to see evident & transparent
+* Perform two levels of experiments -- did our influencing a user type cause them to make the change, and did getting them to make the change actually get us closer to the goal?
+* Get us to quantify things we might not otherwise have quantified
+
+I'd love to create impact mapping around:
+
+* "Increase .NET OSS Maintainer Happiness Outside of the Foundation"
+* "Increase OSS Contributions"
+* "Add x amount of new contributors to .NET projects"
+* "Increase the awareness of the .NET Foundation's Mission & Potential in the larger Community"
+* "Add x amount more .NET Foundation Members"
+* "Ensure Sustainable .NET OSS Development" (though I'd want to make that more concrete in some ways)
+
+**An Example**
+
+[I started one here](https://mm.tt/1231198148?t=SYw6GdceY6) just to provide an idea of how these sorts of maps might start to take shape.
+
+### I've got a ton of ideas
+
+I keep things general here because I'd like my ideas to be based on overall goals and to think about how those goals would actually impact community groups.
+
+Throwing some examples of these out here now: 
+
+* A suite of templates to help maintainers of OSS projects deal with the different kinds of requests they receive
+* A toolset to help enterprises understand how much OSS actually helps them (by analyzing their used nuget packages)
+* Establishing "bat-signal teams" of foundation & community members. When an OSS maintainer is underwater, burning out, or needs some support, they can turn on the bat signal and get some help, pronto.
+* On-boarding mentoring sessions (Twitch, gchat, etc.) that gives developers who are interested but inexperienced a natural apprenticeship into OSS
+* Establishing a "Foundation-approved" process for companies to donate time/money to OSS and finding ways to publicly thank those that to
+
+## Why I'm Running (the long version)
 
 * **To listen**: I think one of the things we must do as a foundation is meet a variety of stakeholders where they are and help make it easy for them to get to the next step on their journey. That's what a lot of my [2017 "Casting a Wider .NET" talk](https://www.youtube.com/watch?v=jFDXNGFvcYg) was about. Since then I've attempted to do so in small ways, but I think we have an opportunity to map out paths to success for all of our various stakeholders and show real transparent progress.
 * **To make an impact:** I think .NET Foundation has the chance to impact so many developers' lives in terms of bringing them the best possible community engagement & support. My entire career to date has been focused on ways to add the maximum possible impact in various situations, and those who've come across me would I think attest to my ability to achieve that impact.
@@ -19,7 +87,8 @@ But honestly, the biggest reason?
 * **Because I grew up here, and it feels like home.**. My Dad is a .NET developer since the earliest days and so learning from him got me started early on. I have developed a great affection for this community and the people in it and have learned so much from folks -- the blog posts / Pluralsight / Channel 9 authors, the friendly OSS maintainers, the Twitter community. I have seen the contributions from all corners and I stand on the shoulders of those giants. While I've begun contributing back to the community for some time in various ways, this seems like an opportunity to take the .NET community to the next level and I'd be honored to be part of that.
 
 ## Why Me Specifically?
-* **Firstly, because it's important:** I want to echo Jon Skeet's point in his candidacy -- I really don't want this board to be made up entirely of white guys (and yet cannot escape that I am one myself). I've reached out to several folks to ask them to consider throwing their names in here, and I hope they will so that I can support their candidacy as well. If elected, I think a primary consideration needs to be making .NET accessible to and represented by folks from the entirety of our developer community. If your choice comes down to me vs. anyone who is less represented in tech, I'd whole-heartedly support your selecting someone less generally well-represented than me.
+
+* **A quick word on some earlier comments**: My original comments [can be found here](https://github.com/dotnet-foundation/election/blob/1693cca3f2eab8f8960c56630a846418955c1dfc/_campaign-2019/sean-killeen.md) (I believe in transparency), but I had the chance to do some learning in public and I think it's only fair that I share that learning here. I made a comment that I didn't want to see a board made up of all white guys. While I was speaking to wanting larger representation, I also wasn't appropriately appreciating that this often makes folks feel devalued for the other things they bring to the ecosystem beyond their identity, which is a crappy feeling I didn't intend to convey. But also it doesn't make the bigger idea clear enough, which is that **no matter who is on the board, we should (and I will) be working to listen to and represent all members of the community**. By speaking to this on the surface, I was doing a disservice to what I really wanted to say about it, which is that as a board member I see my first duty as listening to and representing everyone's many varied experiences, cultures, and backgrounds. So yeah, I have to say I messed up about my approach there and I'm grateful to the folks who engaged with me or the subject of why that particular sort of statement did not at all have the effect I intended.
 * **I'm a teacher at heart:** At my current employer, in additional to technical leadership across clients, I train software developers and testers from all over on agile principles and practices (the mindset, not the prescriptive guidance) and how to apply better approaches to their software development. I have a sense of how to reach people, and also some of the broader themes that folks may struggle with as they attempt to level up their software development & OSS knowledge.
 * **I'm _not_ a famous community member**: I say this half-jokingly, but I do think it's important to an extent. I think I have a perspective and community that often reflects the day-to-day challenges of moving things forward, and therefore I may be able to find ways to move folks forward from where they are. 
 
@@ -47,3 +116,7 @@ More in the links below
 
 ## Ask me a question!
 This election, at end of the day, is about what you want to see. What would you like to see? Whether I'm elected or not, let's get started. [Ask me about it.](https://github.com/SeanKilleen/ama)
+
+## No Matter What -- Thank You.
+
+The opportunity to be a member of this community and engage with it more deeply is something I couldn't be happier about, and regardless of how this election turns out, I plan to impact the community as broadly and positively as I can.

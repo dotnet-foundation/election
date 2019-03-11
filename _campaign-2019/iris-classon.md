@@ -1,6 +1,7 @@
 ---
 title: Iris Classon
 layout: default
+image: https://avatars2.githubusercontent.com/u/1671084?s=400&v=4
 ---
 
 # .NET Foundation Campaign: Iris Classon

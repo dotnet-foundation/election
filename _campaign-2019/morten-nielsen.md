@@ -1,6 +1,7 @@
 ---
 title: Morten Nielsen
 layout: default
+image: https://user-images.githubusercontent.com/1378165/53655225-71e6d600-3c04-11e9-89b9-69ce1261e53b.png
 ---
 
 # .NET Foundation Campaign: Morten Nielsen

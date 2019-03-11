@@ -1,6 +1,7 @@
 ---
 title: Toni Solarin-Sodara
 layout: default
+image: https://avatars.githubusercontent.com/tonerdo?size=220
 ---
 
 # .NET Foundation Campaign: Toni Solarin-Sodara

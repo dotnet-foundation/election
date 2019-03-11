@@ -1,6 +1,7 @@
 ---
 title: Shaun Walker
 layout: default
+image: https://www.siliqon.com/portals/0/shaun%20walker.png
 ---
 
 # .NET Foundation Campaign: Shaun Walker

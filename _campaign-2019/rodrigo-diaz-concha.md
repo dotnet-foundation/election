@@ -1,11 +1,11 @@
 ---
 title: Rodrigo Díaz Concha
 layout: default
-image: http://rdiazconcha.com/wp-content/uploads/2019/03/RDC_Portrait_Small.jpg
+image: https://interfazpodcast.blob.core.windows.net/files/RDC_Portrait_Small.jpg
 ---
 
 # .NET Foundation Campaign: Rodrigo Díaz Concha
-<img src="http://rdiazconcha.com/wp-content/uploads/2019/03/RDC_Portrait_Small.jpg" width="200" alt="Photo of Rodrigo Díaz Concha" />
+<img src="https://interfazpodcast.blob.core.windows.net/files/RDC_Portrait_Small.jpg" width="200" alt="Photo of Rodrigo Díaz Concha" />
 
 # (English)
 ## Why I'm Running

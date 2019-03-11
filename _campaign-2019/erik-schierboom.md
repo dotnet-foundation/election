@@ -1,9 +1,14 @@
 ---
 title: Erik Schierboom
 layout: default
+image: https://avatars3.githubusercontent.com/u/135246?s=460&v=4
 ---
 
 # .NET Foundation Campaign: Erik Schierboom
+
+<div align="center">
+  <img src="https://avatars3.githubusercontent.com/u/135246?s=460&v=4" width="250" />
+</div>
 
 ## Why I'm Running
 * **Passionate about .NET and open-source**  

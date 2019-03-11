@@ -57,9 +57,21 @@ I'd love to create impact mapping around:
 * "Add x amount more .NET Foundation Members"
 * "Ensure Sustainable .NET OSS Development" (though I'd want to make that more concrete in some ways)
 
-### An Example Impact Map
+**An Example**
 
 [I started one here](https://mm.tt/1231198148?t=SYw6GdceY6) just to provide an idea of how these sorts of maps might start to take shape.
+
+### I've got a ton of ideas
+
+I keep things general here because I'd like my ideas to be based on overall goals and to think about how those goals would actually impact community groups.
+
+Throwing some examples of these out here now: 
+
+* A suite of templates to help maintainers of OSS projects deal with the different kinds of requests they receive
+* A toolset to help enterprises understand how much OSS actually helps them (by analyzing their used nuget packages)
+* Establishing "bat-signal teams" of foundation & community members. When an OSS maintainer is underwater, burning out, or needs some support, they can turn on the bat signal and get some help, pronto.
+* On-boarding mentoring sessions (Twitch, gchat, etc.) that gives developers who are interested but inexperienced a natural apprenticeship into OSS
+* Establishing a "Foundation-approved" process for companies to donate time/money to OSS and finding ways to publicly thank those that to
 
 ## Why I'm Running (the long version)
 

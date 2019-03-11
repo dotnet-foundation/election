@@ -28,7 +28,7 @@ I believe that if we're going to serve the various members of our community, we 
 
 And so on (I anticipate many more). By thinking about these different groups, considering their reactions, and confirming with people who identify with these personas or types, we can find the biggest impact, confirm the changes we make will have the intended effect, and communicate more clearly to various stakeholders. I want to us to know our community more fully.
 
-### Imapct Maps: A Technique to Drive the Foundation's Mission
+### Impact Maps: A Technique to Drive the Foundation's Mission
 
 For these types of organizations, I've been heavily inspired by [Gojko Adzic's book on Impact Mapping](https://www.impactmapping.org/book.html). At the risk of serious over-simplifying, I will sum it up by saying that for me, impact mapping is a way to bring many of your stakeholders along to achieve your goals, though that's not quite the original intended purpose (I'd be happy to speak about this subject at length with anyone). 
 

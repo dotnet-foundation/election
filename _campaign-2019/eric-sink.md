@@ -1,6 +1,7 @@
 ---
 title: Eric Sink
 layout: default
+image: https://avatars2.githubusercontent.com/u/3877005?s=400&v=4
 ---
 
 # .NET Foundation Campaign: Eric Sink

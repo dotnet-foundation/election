@@ -1,6 +1,7 @@
 ---
 title: Mitchel Sellers
 layout: default
+image: https://avatars1.githubusercontent.com/u/5659113?s=400&v=4
 ---
 
 # .NET Foundation Campaign: Mitchel Sellers

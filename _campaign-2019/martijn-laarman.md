@@ -1,6 +1,7 @@
 ---
 title: Martijn Laarman
 layout: default
+image: https://secure.gravatar.com/avatar/05dfef403d6eae502a63616b800910af?s=192&r=g&d=retro
 ---
 
 # .NET Foundation Campaign: Martijn Laarman

@@ -1,9 +1,14 @@
 ---
 title: Erik Schierboom
 layout: default
+image: https://avatars3.githubusercontent.com/u/135246?s=460&v=4
 ---
 
 # .NET Foundation Campaign: Erik Schierboom
+
+<div align="center">
+  <img src="https://avatars3.githubusercontent.com/u/135246?s=460&v=4" width="250" />
+</div>
 
 ## Why I'm Running
 * **Passionate about .NET and open-source**  
@@ -27,7 +32,7 @@ When my first open-source contribution was accepted, I felt great! I would like 
   As an example, I've contributed to [xUnit](https://github.com/xunit/xunit/commits?author=ErikSchierboom), [xUnit.analyzers](https://github.com/xunit/xunit.analyzers/commits?author=ErikSchierboom), [Humanizer](https://github.com/Humanizr/Humanizer/commits?author=ErikSchierboom) and [Cake](https://github.com/cake-build/cake/commits?author=ErikSchierboom).
   
 * **I'm a core contributor to Exercism**    
-  [https://exercism.io](Exercism) is an online platform designed to help you improve your coding skills through practice and mentorship. As a maintainer and mentor of the [C#](https://github.com/exercism/csharp/commits?author=ErikSchierboom) and [F#](https://github.com/exercism/fsharp/commits?author=ErikSchierboom) tracks, I'm responsible for creating the best learning platform for students wanting to learn C# or F# on Exercism.
+  [Exercism](https://exercism.io) is an online platform designed to help you improve your coding skills through practice and mentorship. As a maintainer and mentor of the [C#](https://github.com/exercism/csharp/commits?author=ErikSchierboom) and [F#](https://github.com/exercism/fsharp/commits?author=ErikSchierboom) tracks, I'm responsible for creating the best learning platform for students wanting to learn C# or F# on Exercism.
 
 ## Links
 * [My blog](https://www.erikschierboom.com)

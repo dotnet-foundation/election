@@ -35,7 +35,7 @@ We need to do research into this, but some user types could include:
 
 ### Impact Maps: A Technique to Drive the Foundation's Mission
 
-Everyone wants to start with things they'll do, or pet ideas that are based on their perpsective. I want to map our problem space and our stakeholders, so that we are conscious about what actions we're taking and what impact they're supposed to achieve.
+Rather than diving in to ideas that backed only by my perspective or desired changes, I want to map our problem space and our stakeholders, so that we are conscious about what actions we're taking and what impact they're supposed to achieve.
 
 I've been heavily inspired by [Gojko Adzic's book on Impact Mapping](https://www.impactmapping.org/book.html). At the risk of serious over-simplifying, I will sum it up by saying that for me, impact mapping is a way to bring many of your stakeholders along to achieve your goals, though that's not quite the original intended purpose (I'd be happy to speak about this subject at length with anyone). 
 

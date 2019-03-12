@@ -4,7 +4,23 @@ layout: default
 image: https://avatars1.githubusercontent.com/u/3771777?s=200&v=4
 ---
 
-<div style="float:right; padding-left:10px">
+<style>
+.pic {
+  float:right;
+  padding-left:10px;
+}
+
+@media (max-width: 767px) {
+  .pic {
+    float:none;
+    padding-left:auto;
+    text-align:center;
+  }
+}
+
+</style>
+
+<div class="pic">
   <img src="https://avatars1.githubusercontent.com/u/3771777?s=200&v=4" width="200" alt="Spencer Schneidenbach" />
 </div>
 

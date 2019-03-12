@@ -6,7 +6,7 @@ image: https://avatars3.githubusercontent.com/u/2148318
 
 # .NET Foundation Campaign: Sean Killeen
 
-**Why I'm running, in short**: I bring an empathetic approach, a community-focused mindset, the tools to explore problem spaces and define impacts, and skills around teaching and building consensus. I also bring a ton of energy, and some specific ideas to start with. I will help the Foundation define its problem space and impacts, help the community see -- and shape -- where we want to go, and will position us to start on work that has the biggest impact possible for our ecosystem.
+**Why I'm running, in short**: I bring an empathetic approach, a community-focused mindset, the tools to explore problem spaces and define impacts, and skills around teaching and building consensus. I also bring a ton of energy, and some specific ideas to start with. I will help the Foundation define its problem space and impacts, help the community see -- and shape -- where we want to go. I will position the .NET Foundation to make the biggest impact possible for our ecosystem.
 
 I love this community dearly, have grown up with it, and would jump at the chance to represent it and make it better. I hope that most who have interacted with me have found me to be helpful, collaborative, and passionate about advancing .NET's impact on our world.  
 

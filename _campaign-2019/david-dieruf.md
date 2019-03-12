@@ -1,7 +1,7 @@
 ---
 title: David Dieruf
 layout: default
-image: https://drive.google.com/file/d/1WjfkKo58lx8Dr6UxwtQod64O9Y5SP32L/view?usp=sharing
+image: https://user-images.githubusercontent.com/68539/54227549-637aa300-44bd-11e9-8b88-bdd2c9060684.png
 ---
 
 # .NET Foundation Campaign: David Dieruf

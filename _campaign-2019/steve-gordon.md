@@ -34,9 +34,10 @@ I would focus resources to build upon the amazing work done by the Microsoft doc
 You can also read more about my campaign in my recent [blog post](https://www.stevejgordon.co.uk/campaigning-for-a-dotnet-foundation-board-seat).
 
 ## My .NET Contributions
+
 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002866?fullName=Steve%20Gordon) and I've been developing software with .NET for over 15 years. I'm a senior software developer for [Madgex Ltd](https://www.madgex.com) and feel extremely lucky that my day job is also my hobby.
 
-I love to share the things that I learn with other developers and have been [blogging](https://www.stevejgordon.co.uk) about ASP.NET Core and .NET Core topics for over 3 years. I enjoy keeping current with the new features which the teams are working on and contribute where I can. I publish short videos to my [YouTube channel](https://www.youtube.com/c/stevegordon) and soon my first Pluralsight course will be released.
+I love to share the things that I learn with other developers and have been [blogging](https://www.stevejgordon.co.uk) about ASP.NET Core and .NET Core topics for over 3 years. I enjoy keeping current with the new features which the teams are working on and contribute where I can. I publish short videos to my [YouTube channel](https://www.youtube.com/c/stevegordon) and have recently authored my first [Pluralsight course](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection).
 
 I enjoy speaking at conferences where I can engage with and help other developers more directly. I also run a monthly .NET meetup group where local developers can come to learn more about .NET related topics and network with their peers.
 

@@ -1,6 +1,7 @@
 ---
 title: Jon Skeet
 layout: default
+image: https://user-images.githubusercontent.com/17011/54181549-cad12c80-4496-11e9-8c3d-426c5d1d008b.jpg
 ---
 
 # .NET Foundation Campaign: Jon Skeet

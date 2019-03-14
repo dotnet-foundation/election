@@ -15,18 +15,35 @@ image: https://avatars1.githubusercontent.com/u/3771777?s=200&v=4
     float:none;
     padding-left:auto;
     text-align:center;
+    padding-bottom: 20px;
   }
 }
 
+.bigger-text * {
+  font-size: 2.2rem !important;
+}
 </style>
 
 <div class="pic">
-  <img src="https://avatars1.githubusercontent.com/u/3771777?s=200&v=4" width="200" alt="Spencer Schneidenbach" />
+  <img src="https://avatars1.githubusercontent.com/u/3771777?s=250&v=4" width="200" alt="Spencer Schneidenbach" />
 </div>
+
+# <strong> Slogan of the Day</strong>: "Bringin' back the GAC" (<a href="https://ctt.ac/G2Bi9" target="_blank">click to tweet</a> this out :)
 
 ## Hi! I'm Spencer Schneidenbach, and I'm running for the .NET Foundation Board of Directors.
 
-<div style="font-size: 2.2rem; margin-top:2rem"> I'm a community leader with <strong>proven experience</strong> advocating for both developers and community leaders in the .NET ecosystem. Please support my campaign by <a href="https://ctt.ac/11XxF" target="_blank">sending a tweet showing your support</a>! Questions? Hit me up on Twitter <a href="https://twitter.com/schneidenbach">@schneidenbach</a>!
+<div class="bigger-text" style="margin-top:2rem">
+<p>
+I'm a community leader with <strong>proven experience</strong> advocating for both developers and community leaders in the .NET ecosystem. <strong>It's our .NET, so let me represent <i>you</i></strong>.
+</p>
+<p>
+Questions? My door is always open:
+</p>
+<ul>
+<li> Hit me up on Twitter <a href="https://twitter.com/schneidenbach">@schneidenbach</a>!</li>
+<li> Wanna talk? <a href="https://calendly.com/schneidenbach">Schedule some time to chat</a>!</li>
+<li>Email me at <a href="mailto:sas.projects@me.com">sas.projects@me.com</a>!</li>
+</ul>
 </div>
 
 ## Why I'm Running
@@ -42,10 +59,10 @@ By earning a seat on the .NET Foundation board of directors, **I want to be a cl
 I'm also a big believer in brevity, which is why I tried to keep my campaign statement short. 😃
 
 ## A little more about me
-I'm a two-year **Microsoft MVP in Developer Technologies** from the United States and currently the Chief Architect at Ryvit, a startup centered around integration technologies for the construction industry. I'm also a member of the [ASPInsiders](https://aspinsiders.com) and a frequent speaker at international events, which has given me the opportunity to interact with developers and community leaders the world over.
+I'm a two-time **Microsoft MVP in Developer Technologies** from the United States and currently the Chief Architect at Ryvit, a startup centered around integration technologies for the construction industry. I'm also a member of the [ASPInsiders](https://aspinsiders.com) and a frequent speaker at international events, which has given me the opportunity to interact with developers and community leaders the world over.
 
 ## My Relevant Experience (and contributions to .NET!)
-* Two-year Microsoft MVP in Developer Technologies, specializing in ASP.NET and C#. Member of the [ASPInsiders](https://aspinsiders.com).
+* Two-time Microsoft MVP in Developer Technologies, specializing in ASP.NET and C#. Member of the [ASPInsiders](https://aspinsiders.com).
 * Content and Community Outreach Chair for the [dev up conference](https://devupconf.org) in 2017 and 2018. Responsible for interacting with the speakers, user groups, and advocating for the event. Created and managed a budget, participated in regular meetings, and helped steer the attendee experience.
 * Teacher and speaker at events worldwide, with [several](https://www.youtube.com/watch?v=CH9VEeV-zok) [videos](https://www.youtube.com/watch?v=x0yNKU-tz1Y) on [YouTube](https://www.youtube.com/watch?v=1eIoQbVd8fQ) of my conference talks about .NET. Participated heavily in the "hallway track", helping attendees of the event with their .NET-related questions and issues.
 * Content advisor for conferences around the United States, including [Kansas City Developer Conference](https://kcdc.info) and [Music City Code](https://musiccitytech.com).

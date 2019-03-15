@@ -1,4 +1,9 @@
-------------------------------------------------------------------------------------
+---
+name: Candidate Statement
+about: A way for candidates for the .NET Foundation Board of Directors to submit their candidate statement.
+---
+
+<!-- 
 Instructions:
 This is a campaign statement template. If you're reporting an issue on the site, 
 delete the whole thing.
@@ -17,7 +22,7 @@ and you can contact us at contact@dotnetfoundation.org with questions, too.
 This template is in Markdown format. If you need help, there's a reference here: 
 https://guides.github.com/features/mastering-markdown/
 ...or just fill in the info and we'll figure it out.
-------------------------------------------------------------------------------------
+-->
 
 
 

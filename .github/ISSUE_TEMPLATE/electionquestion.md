@@ -1,6 +1,7 @@
 ---
 name: Election Question
 about: Do you have a question for the Board of Director election candidates? Submit it here!
+labels: candidate-questions
 ---
 
 <!-- We're happy that you're willing to engage with the candidates! Thanks for taking the time to submit a candidate. Please see the directions below. -->

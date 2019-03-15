@@ -16,6 +16,6 @@ To submit a question, [create a new issue on GitHub](https://github.com/dotnet-f
 
 You can view the [questions asked so far on GitHub](https://github.com/dotnet-foundation/election/labels/candidate-question).
 
-<a href="https://github.com/dotnet-foundation/election/issues/new" class="site-button site-button--pink">Ask a Question</a>
+<a href="https://github.com/dotnet-foundation/election/issues/new?title=Election+Question&labels=candidate-question&template=electionquestion.md" class="site-button site-button--pink">Ask a Question</a>
 
 Got questions? Feel free to reach out to us at [contact@dotnetfoundation.org](mailto:contact@dotnetfoundation.org).

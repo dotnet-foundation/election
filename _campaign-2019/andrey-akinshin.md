@@ -1,6 +1,7 @@
 ---
 title: Andrey Akinshin
 layout: default
+image: https://avatars3.githubusercontent.com/u/2259237?s=460&v=4
 ---
 
 # .NET Foundation Campaign: Andrey Akinshin

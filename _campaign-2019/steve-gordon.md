@@ -1,6 +1,7 @@
 ---
 title: Steve Gordon
 layout: default
+image: https://user-images.githubusercontent.com/3669103/53630658-7dd49700-3c08-11e9-8329-d5d6f27264c2.png
 ---
 
 # .NET Foundation Campaign: Steve Gordon
@@ -30,10 +31,13 @@ The second part of my vision aligns closely with my passion for helping develope
 
 I would focus resources to build upon the amazing work done by the Microsoft documentation teams; aiming to create a similar structure, quality and consistency of the documentation and samples available for .NET Foundation projects. This will lower the barrier of entry for developers, help guide best practices and build an even stronger eco-system of community libraries, that developers can depend on, in order to build world-class applications.
 
+You can also read more about my campaign in my recent [blog post](https://www.stevejgordon.co.uk/campaigning-for-a-dotnet-foundation-board-seat).
+
 ## My .NET Contributions
+
 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002866?fullName=Steve%20Gordon) and I've been developing software with .NET for over 15 years. I'm a senior software developer for [Madgex Ltd](https://www.madgex.com) and feel extremely lucky that my day job is also my hobby.
 
-I love to share the things that I learn with other developers and have been [blogging](https://www.stevejgordon.co.uk) about ASP.NET Core and .NET Core topics for over 3 years. I enjoy keeping current with the new features which the teams are working on and contribute where I can. I publish short videos to my [YouTube channel](https://www.youtube.com/c/stevegordon) and soon my first Pluralsight course will be released.
+I love to share the things that I learn with other developers and have been [blogging](https://www.stevejgordon.co.uk) about ASP.NET Core and .NET Core topics for over 3 years. I enjoy keeping current with the new features which the teams are working on and contribute where I can. I publish short videos to my [YouTube channel](https://www.youtube.com/c/stevegordon) and have recently authored my first [Pluralsight course](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection).
 
 I enjoy speaking at conferences where I can engage with and help other developers more directly. I also run a monthly .NET meetup group where local developers can come to learn more about .NET related topics and network with their peers.
 
@@ -48,7 +52,7 @@ I have contributed to discussions in libraries such as [Polly](https://github.co
 
 ## Contact Information
 * Twitter: [@stevejgordon](https://twitter.com/stevejgordon)
-* GitHub: [stevejgordon](https://github.com/dotnet)
+* GitHub: [stevejgordon](https://github.com/stevejgordon)
 
 ## Campaign Video
 

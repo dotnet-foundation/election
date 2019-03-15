@@ -1,6 +1,7 @@
 ---
 title: Mattias Karlsson
 layout: default
+image: https://user-images.githubusercontent.com/1647294/53631166-3521db80-3c12-11e9-8946-01c0c4da2d61.png
 ---
 
 # .NET Foundation Campaign: Mattias Karlsson

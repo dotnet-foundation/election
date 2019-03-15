@@ -4,7 +4,7 @@ title: .NET Foundation Board Member Elections
 
 ## Your .NET Foundation
 
-We recently announced some big changes to the .NET Foundation, and one of the biggest is that we’re moving to a community elected Board of Directors. We're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community. This structure will help the .NET Foundation scale and better serve the .NET ecosystem.
+We recently announced some big changes to the .NET Foundation, and one of the biggest is that we’re moving to a community elected Board of Directors. **We're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community.** This structure will help the .NET Foundation scale and better serve the .NET ecosystem.
 
 **If you’re passionate about open source .NET, we’d like you to think about [running in the elections!](/campaign)**
 

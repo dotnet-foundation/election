@@ -4,7 +4,7 @@ title: Ask the Candidates a Question!
 
 # {{ page.title }}
 
-The .NET Foundation's Board of Directors will be working with you and for you, and so we want to make sure you have the ability to ask us any questions you might have about our plans or our approach to the Foundation and our potential seat on the board.
+The .NET Foundation's Board of Directors will be working with you and for you. We want to make sure you have the ability to ask us any questions you might have about our plans or our approach to the Foundation and our potential seat on the board.
 
 ## Asking a Question
 

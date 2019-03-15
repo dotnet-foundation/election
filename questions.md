@@ -10,7 +10,7 @@ The .NET Foundation's Board of Directors will be working with you and for you, a
 
 Questions are being asked [on GitHub](https://github.com/dotnet-foundation/election/labels/candidate-question).
 
-To submit a question, [create a new issue](https://github.com/dotnet-foundation/election/issues/new) and use the "Candidate Question" template. We'll label the question once it's submitted.
+To submit a question, [create a new issue on GitHub](https://github.com/dotnet-foundation/election/issues/new?title=Election+Question&labels=candidate-question&template=electionquestion.md). The question will be labeled automatically when it's submitted and we'll let the candidates know it's available for answer.
 
 ## Viewing the Questions
 

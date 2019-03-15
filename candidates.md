@@ -11,6 +11,8 @@ Hey, we just launched the election and are waiting for our first election statem
 ### Here are the campaign statements for our candidates.
 Interested in joining the race? [Here's how to get started](/campaign).
 
+[![Gitter](https://badges.gitter.im/dotnet-foundation/election.svg)](https://gitter.im/dotnet-foundation/election?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 <section class="card-container">
   {% for candidate in site.campaign-2019 %}
     <article class="card">

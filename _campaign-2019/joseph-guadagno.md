@@ -34,7 +34,7 @@ INETA was the International .NET Association.  I served on the board for eight y
 ### Open Source Projects
 * [BingSharp](http://bingsharp.codeplex.com/): A wrapper around the Bing API in C#
 * [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher): jquery plugin to dynamically load Bootstrap themes
-* [twbs-flickrCarousel[(https://github.com/jguadagno/twbs-flickrCarousel): a bootstrap carousel to loop through Flickr pictures
+* [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel): a bootstrap carousel to loop through Flickr pictures
 * [JosephGuadagno.Extensions](https://github.com/jguadagno/JosephGuadagno.Extensions)
 * [JosephGuadagno.Utilities](https://github.com/jguadagno/JosephGuadagno.Utilities)
 * [JosephGuadagno.Extensions.EF](https://github.com/jguadagno/JosephGuadagno.Extensions.EF)

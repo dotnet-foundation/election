@@ -19,7 +19,12 @@ I'm a 36 year old husband to a wonderful wife and father to 3 amazing girls from
 I'm currently CEO of CloudNimble, Inc., a consulting firm that specializes in Microsoft technologies. We're modernizing DevOps for the State of Florida, spearheading upgrades to the Agency for Health Care Administration, including a modern enterprise application that helps the agency investigate Medicaid abuse. But my passion is helping startups, which is why we're building [🔥 **BurnRate**](https://burnrate.io), an ASP.NET Core app that helps startups scale out their sales teams.
 
 ## Why I'm Running
-I've been developing on the .NET Framework my entire professional career. I've had dozens of opportunities to help shape the platform over the years, from the Whidbey Alpha Design Reviews back in 2002, to my contributions to OData and Restier today. The .NET Foundation is doing important work in furthering Microsoft's OSS contributions, and with my focus on developer experiences and simplicity, I feel like I can help make an impact on product quality across the .NET Ecosystem.
+I've been developing on the .NET Framework my entire professional career. I've had dozens of opportunities to help shape the platform over the years, from the Whidbey Alpha Design Reviews back in 2002, to my contributions to OData and Restier today. The .NET Foundation is doing important work in furthering Microsoft's OSS contributions, and with my knowledge and focus on developer experiences + simplicity, I feel like I can help make an impact on project quality across the .NET ecosystem.
+
+### My Community Questions Answered:
+- [How would you provide specific help to OSS projects?](https://github.com/dotnet-foundation/election/issues/79#issuecomment-473682586)
+- [[How would you improve] Inter-nation or cross-community collaboration[?]](https://github.com/dotnet-foundation/election/issues/82#issuecomment-473683769)
+- [[How would you improve] .NET open source [solution] diversity[?]](https://github.com/dotnet-foundation/election/issues/80#issuecomment-473685575) 
 
 ## My .NET Contributions
 - **Five-time Microsoft MVP across 3 different technologies, ASP.NET, .NET Framework, and Windows**

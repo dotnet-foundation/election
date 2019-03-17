@@ -12,3 +12,4 @@ google_analytics: UA-57261022-1
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji

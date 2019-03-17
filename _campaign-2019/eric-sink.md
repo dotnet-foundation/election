@@ -38,6 +38,26 @@ I use .NET Core, but not Azure.
 
 I prefer spaces over tabs, command line over IDE, vim over emacs, and static typing over dynamic.  
 
+## Why you maybe SHOULD vote for me
+
+So far I've mostly given you reasons NOT to vote for me.  Let's see if I can improve on that.
+
+One thing I've got that may be unusual among the candidates is a lot of experience as a board member in other organizations.  It's a skill, and I can credibly claim to be pretty good at it.
+
+I believe that the first thing that distinguishes a good board is the ability to say "no" to good things.
+
+Every board ends up making decisions about how to allocate resources.  Those resources may be time, money, attention, or whatever.  But there will be a bunch of things competing for those resources, and you can't do them all.
+
+Obviously, filtering out the bad things isn't enough to make the board effective.  Almost any board can do that.  The real problem is what happens next.  You end up with a list of good things.  All of them are worthy of the resources.  What do you do?
+
+A mission statement won't help you, because most of them are just long-winded rephrasings of "We value good things".
+
+This moment is what separates effective boards from ineffective ones.  It requires preparation, great communication skills, and discernment.
+
+And this is the moment where diversity (of all kinds) matters, not because it's currently cool, but because a wide variety of perspectives is actually better, and always has been.
+
+But the other side of that coin is cooperation.  A board is doomed to fail if it's just a bunch of people, each with their own pet issue, each with a different hill they are willing to die on.  One of the most important characteristics of a board member is the ability to be open-minded and objective, and to not feel threatened by differing opinions.
+
 ## My .NET Activities and Contributions
 
 I founded SourceGear (a small software company in Illinois) about 22 years ago.  My business partner (Corey Steffen) and I think of ourselves as serial entrepreneurs within a single company.  We do a mix of custom software contracting as well as products of our own.

@@ -33,4 +33,4 @@ Things to remember:
 * While there is a review process, it's not designed to be exclusionary. We're not pouring over your life's work. We're looking for folks who have demonstrated that they have a commitment to bringing .NET to others and being active participants in the community. If you've created a wildly popular open-source project, that's great! -- it's just not a barrier for entry if you haven't.
 * Same thing with the dues. The Foundation is asking for U$100 in dues, so that we can have a budget to do some great things. But please, do not let the dues stop you! The dues are suggested; if that's not where you can allocate funds now, we don't want that to stop you from joining. What we care about the most is a willingness to help out and a commitment to see .NET and OSS succeed. We'll be working on ways of making this better in the future, shortly after we, uh, become an official "we".
 
-We hope you'll be heard and spread the word. We look forward to seeing your questions!
+We hope to hear from you soon!

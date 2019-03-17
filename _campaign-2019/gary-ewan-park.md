@@ -1,7 +1,7 @@
 ---
 title: Gary Ewan Park
 layout: default
-image: [https://avatars1.githubusercontent.com/u/1271146?s=460&v=4]
+image: https://avatars1.githubusercontent.com/u/1271146?s=460&v=4
 ---
 
 # .NET Foundation Campaign: Gary Ewan Park

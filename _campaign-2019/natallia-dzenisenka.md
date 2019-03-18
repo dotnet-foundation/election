@@ -1,7 +1,7 @@
 ---
 title: Natallia Dzenisenka
 layout: default
-image: [https://drive.google.com/uc?export=download&id=1PbsY1zu-SeWvjR8p8lITV2eLGt4BcKwH]
+image: https://drive.google.com/uc?export=download&id=1PbsY1zu-SeWvjR8p8lITV2eLGt4BcKwH
 ---
 
 # .NET Foundation Campaign: Natallia Dzenisenka

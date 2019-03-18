@@ -6,11 +6,13 @@ image: https://avatars2.githubusercontent.com/u/708125?s=460&v=4
 
 # .NET Foundation Campaign: Robin Krom
 
-## Why I'm Running
-First a bit about my background:
-I'm 43 years old, Dutch, father, husband, dog owner, living & working in Germany, a professional Java and passionate .NET developer. I've been working as an IT professional since 1998. One of my main interests is technologies - understanding, trying out and explaining them to others is what I consider part of my job and also do for a hobby.
+![me](https://avatars2.githubusercontent.com/u/708125?s=460&v=4)
 
-As a developer I work with 2 major ecosystems, Java from my point of view the more mature and .NET the bright burning star in the sky. It's interesting to see how those different ecosystems have, on a high level, many similarities but different backgrounds and implementations. There is much to be leaned from looking at both, which is something I can bring to the table when needed.
+## Why I'm Running
+
+Hello, my name is **Robin Krom**, I am 43 years old, Dutch, father, husband, dog owner, living & working in Germany, a professional Java and passionate .NET developer. I've been working as an IT professional since 1998. One of my main interests is technologies - understanding, trying out and explaining them to others is what I consider part of my job and also do for a hobby.
+
+As a developer I work with 2 major ecosystems, Java from my point of view the more mature and .NET the bright burning star in the sky. It's interesting to see how those different ecosystems have, on a high level, many similarities but different backgrounds and implementations. There is much to be learned from looking at both, which is something I can bring to the table when needed.
 
 A big passion of mine is the open source world, and I can only admire the work of the .NET Foundation as [the services](https://dotnetfoundation.org/About) that are provided is very large. The project guidance and mentoring is what appeals the most to me. As a developer I learned the hard way that maintaining an open source project has many challenges that are not related to programming, something which is currently reflected by many other open source maintainers. Finding time to work on the project, staying motivated and professional when people are complaining or even ranting about decisions or issue response times, seem to be the topic of the day. There is even something called open source burnout, which should not be taken lightly. I wish to help by providing support, a discussion platform, success stories, or make bad examples and real cases known so they can be used to learn from.
 

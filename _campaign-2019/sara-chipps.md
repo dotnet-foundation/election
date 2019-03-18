@@ -19,7 +19,7 @@ When I think of what I've seen in this community and how it has evolved over the
 ### As an .NET Foundation board member, I will focus on three questions: 
 
 **What are we doing to bring .NET to the next generation of coders?**
-When we think of ColdFusion and Flash we think of closed source platforms and older coders. In order to ensure .NET doesn't fall the way of forgotten frameworks we need encourage the community to work with student coders and through mentorship and sponsorship promote them to .NET Contributors. 
+When we think of ColdFusion and Flash we think of closed source platforms and older coders. In order to ensure .NET doesn't fall the way of forgotten frameworks we need to encourage the community to work with student coders and through mentorship and sponsorship promote them to .NET Contributors. 
 
 **What are we doing to make sure OSS with .NET is sustainable?**
 [This](https://www.youtube.com/watch?v=UIDb6VBO9os) is one of my favorite talks about how taxing open source work can be. In order to support a growing community independent of Microsoft we need to ensure that building OSS products and tools comes with a support system that makes it sustainable. 
@@ -32,7 +32,7 @@ Both of the above points are moot if we aren't ensuring that .NET coders are wor
 - [ASP.NET MVC Translated for the Web Forms Programmer pt2](http://sarajchipps.com/post/55986260739/aspnet-mvc-translated-for-the-web-forms)
 - [.NET Debugging for Rookies](https://www.datamation.com/entdev/article.php/3775266/NET-Debugging-for-Rookies.htm)
 - [ASP.NET Firestarter: Routing and Controllers](https://channel9.msdn.com/Blogs/egibson/ASPNET-MVC-FireStarter-Routing-and-Controllers)
-- [C# Choose Your Own Adventure Game with Iron Python](https://github.com/SaraJo/Choose-Your-Own-Adventure)
+- [C# Choose Your Own Adventure Game with Iron Python](https://github.com/SaraJo/Choose-Your-Own-Adventure-)
 - [Herding Code ep90](http://herdingcode.com/herding-code-90-sara-chipps-on-girl-develop-it-and-girls-developing-software/)
 - [.NET Rocks on Jewelbots](https://player.fm/series/net-rocks-65612/jewelbots-with-sara-chipps)
 - [PDC 2009 Pizza Party](https://blogs.msdn.microsoft.com/peterlau/2009/12/08/connected-show-21-pdc-2009-pizza-party/)
@@ -50,4 +50,4 @@ Both of the above points are moot if we aren't ensuring that .NET coders are wor
 - [Twitter](https://twitter.com/SaraJChipps)
 - [GitHub](https://github.com/SaraJo)
 - [Email](mailto:sarajchipps@gmail.com)
-- [Linked In](https://www.linkedin.com/in/jackieore/)
+- [Linked In](https://www.linkedin.com/in/sarajchipps/)

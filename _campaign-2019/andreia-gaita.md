@@ -1,5 +1,5 @@
 ---
-title: .NET Foundation Campaign: Andreia Gaita
+title: Andreia Gaita
 layout: default
 image: https://user-images.githubusercontent.com/310137/54570031-38e78900-499a-11e9-9d03-bf2db6f885d6.jpg
 ---

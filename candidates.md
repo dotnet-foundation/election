@@ -34,9 +34,25 @@ Interested in joining the race? [Here's how to get started](/campaign).
 {% endif %}
 
 <script type="text/javascript">
-// https://stackoverflow.com/questions/7070054/javascript-shuffle-html-list-element-order
-var ul = document.querySelector('section.card-container');
-for (var i = ul.children.length; i >= 0; i--) {
-    ul.appendChild(ul.children[Math.random() * i | 0]);
-}
+document.addEventListener('DOMContentLoaded', function() {
+  var cookieName = 'candidates';
+  var cookie = Cookies.getJSON(cookieName);
+  var ul = document.querySelector('section.card-container');
+  
+  var values = new Array();
+  for (var i = 0; i < ul.children.length; i++) {
+    values.push(Math.random() * i | 0);
+  }
+  console.log(cookie);
+  if (cookie != null && values.length == cookie.values.length) {
+    /* reset if candidate lengths change */
+    values = cookie.values;
+  } else {
+    Cookies.set(cookieName, { values : values }, { expires: 1 /*days*/ });
+  }
+
+  for(var i=0; i < values.length; i++) {
+    ul.appendChild(ul.children[values[i] | 0]);
+  }
+}, false);
 </script>

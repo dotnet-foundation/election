@@ -28,8 +28,6 @@ image: https://avatars1.githubusercontent.com/u/3771777?s=200&v=4
   <img src="https://avatars1.githubusercontent.com/u/3771777?s=250&v=4" width="200" alt="Spencer Schneidenbach" />
 </div>
 
-# <strong> Slogan of the Day</strong>: "Bringin' back the GAC" (<a href="https://ctt.ac/G2Bi9" target="_blank">click to tweet</a> this out :)
-
 ## Hi! I'm Spencer Schneidenbach, and I'm running for the .NET Foundation Board of Directors.
 
 <div class="bigger-text" style="margin-top:2rem">

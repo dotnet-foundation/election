@@ -20,6 +20,15 @@ In addition to the open source contributions through my own projects, I'm also c
 
 Lastly, I enjoy sharing my experiences with the rest of the development community and often speak about my history at various tech events and conferences.
 
+## Board Experience
+One of the last things I wanted to highlight is that I do have experience working in the structure of a board of directors or leadership role.  I feel that my experiences here also provide me unique exposure the workings of organizations, especially volunteer organizations, at the board level.  The level of communication, coordination, and delegation/management is something that does improve with experience.  I've had the following experience serving on organizational boards.
+
+* DMACC Alumni Association - Served on the board from 2011-2018, president from 2015-2018
+* DNN Association - Currently Treasurer, and responsible for speaker selection, joined on 2018
+* Cirrus Owners & Pilots Association - Currently Director of IT, responsible for IT Strategy, joined on 2018 to the board volunteering since 2016
+
+Working on these boards I have interacted with many different groups of people helped to reach strategic goals both technically and otherwise.  The experiences within each of these organizations have provided me unique experiences that have allowed me to develop effective communication skills working within these diverse organizations.
+
 ## Links
 * [My blog](https://www.mitchelsellers.com)
 * [Some of my Open Source Contributions](https://github.com/iowacomputergurus)

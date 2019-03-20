@@ -28,6 +28,15 @@ Last year I got into contact with Microsoft about how we can use Greenshot as on
 
 In the company I work for there is only a small fraction of people using .NET as a technology, I try to be a .NET advocate by supporting them where possible, giving advice, code reviews, and writing news-letters about things happening in the world which might influences their daily work.
 
+## Additional campaign information:
+An [interview](https://soundcloud.com/andrewhoefling/interview-with-robin-krom-net-foundation-board-candidate) by [Andrew Hoefling](https://github.com/ahoefling) about my campaign for the board of directors.
+
+My answers to the member questions (might be behind, look at the questions when in doubt):
+* [How would you provide specific help to open-source projects?](https://github.com/dotnet-foundation/election/issues/79#issuecomment-475051168)
+* [.NET open source diversity ](https://github.com/dotnet-foundation/election/issues/80#issuecomment-475061530)
+* [International or cross-region communities collaboration](https://github.com/dotnet-foundation/election/issues/82#issuecomment-473877465)
+* [Broadening .NET's developer-base](https://github.com/dotnet-foundation/election/issues/91#issuecomment-474874987)
+* [Board of Directors Experience](https://github.com/dotnet-foundation/election/issues/95#issuecomment-475040089)
 
 ## Links
 * [The Greenshot blog](https://getgreenshot.org/blog/)

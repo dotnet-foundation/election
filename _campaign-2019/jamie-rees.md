@@ -11,7 +11,7 @@ Hi I'm Jamie,
 
 So the reason I want to run for this is because of one thing. I am passionate about everything .Net. If I am able to help in anyway shape or form then I will try my best. So, when I see that you guys are open to board members, this in my opinion was a perfect way to contribute and help the .Net ecosystem that I so much wanted to do.
 
-My dream during my development career is to make a difference, and I feel like if I was elected, I would be able fulfil that dream. But it's not just about me, it's about everyone else that is affected by any decisions made and that's the important part.
+My dream during my development career is to make a difference, and I feel like if I was elected, I would be able to fulfil that dream. But it's not just about me, it's about everyone else that is affected by any decisions made and that's the important part.
 
 Outside of all things .Net my time is pretty limited, I have a 2-year-old boy, a 13-week-old Puppy and I run a popular open source library, that includes bug fixing, new features and general support! And sometimes my wife likes to spend some time with me :) 
 

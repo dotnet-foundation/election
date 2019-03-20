@@ -32,10 +32,15 @@ As an open source project owner, I understand all the issues that Open Source Pr
 
 Other than that, I am working with .Net and a lot of the foundation projects every single day, I am an avid consumer so it's also in my best interests to achieve the best possible outcomes for this community. 
 
+## Interview with Q&A
+
+You can find a interview with me and Andrew Hoefling here: [Soundcloud](https://soundcloud.com/andrewhoefling/interview-with-jamie-rees-net-foundation-board-candidate)
+
 ## Links
 * [Ombi](https://github.com/tidusjar/ombi)
 * [Stackoverflow](https://stackoverflow.com/users/3329836/jamie-rees)
 * [Blog](https://www.jamietech.com/) (I've not wrote anything on there in some time now)
+* [Interview](https://soundcloud.com/andrewhoefling/interview-with-jamie-rees-net-foundation-board-candidate)
 
 ## Contact Information
 * Twitter: [@tidusjar](https://twitter.com/tidusjar)

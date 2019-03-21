@@ -19,6 +19,11 @@ general, but a few areas in particular:
 * Increase .NET Foundation local presence, to raise awareness of the foundation and acknowledge local communities.
 * Diversity, how can we grow and ensure a healthy .NET Community, mentorship, sponsorship, etc.
 
+## Interview by Spencer Schneidenbach
+
+[Spencer Schneidenbach](https://election.dotnetfoundation.org/campaign-2019/spencer-schneidenbach.html) interviewed be about me running for .NET Foundation Board of Directors seat while at MVP Summit 2019.
+
+You can take a listen to that interview over at [SoundCloud](https://soundcloud.com/schneidenbach/interview-with-mattias-karlsson-net-foundation-board-candidate).
 
 ## My .NET Contributions
 

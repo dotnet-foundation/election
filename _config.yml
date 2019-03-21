@@ -9,6 +9,9 @@ collections:
 # Google Analytics
 google_analytics: UA-57261022-1
 
+campaign_open: false
+voting_open: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -1,11 +1,10 @@
 ---
 title: Interested in running?
-campaign_open: false
 ---
 
 # {{ page.title }}
 
-{% if campaign_open %}
+{% if site.campaign_open == true %}
 
 That's great! Here's the information you need to decide if you'd like to move forward.
 

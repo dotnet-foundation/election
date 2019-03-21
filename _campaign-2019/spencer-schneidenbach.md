@@ -24,6 +24,10 @@ image: https://avatars1.githubusercontent.com/u/3771777?s=200&v=4
 }
 </style>
 
+<div class="alert alert-info show w-100 text-center" role="alert" style="font-size: 1.8rem !important">
+  Be sure to check out my .NET Foundation <a href="https://soundcloud.com/schneidenbach">board candidate podcast</a>, including an interview with <a href="https://soundcloud.com/schneidenbach/interview-with-jon-galloway-executive-director-of-the-net-foundation">Jon Galloway</a>, Executive Director of the .NET Foundation, and <a href="https://soundcloud.com/schneidenbach/richard-campbell-interviews-spencer-schneidenbach-net-foundation-board-candidate">my candidate interview</a>, hosted by Richard Campbell!
+</div>
+
 <div class="pic">
   <img src="https://avatars1.githubusercontent.com/u/3771777?s=250&v=4" width="200" alt="Spencer Schneidenbach" />
 </div>

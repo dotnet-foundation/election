@@ -18,6 +18,8 @@ One of my primary goals in life is to *leave this live (planet) better than it w
 
 I feel I am very well suited for the position.
 
+You can listen to my [interview](https://soundcloud.com/schneidenbach/interview-with-joe-guadagno-net-foundation-board-candidate) about my candidacy done my fellow candidate [Spencer Schneidenbach](spencer-schneidenbach.md)
+
 ## My Community Contributions
 
 ### .NET Contributions

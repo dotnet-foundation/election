@@ -6,7 +6,21 @@ title: .NET Foundation Board Member Elections
 
 We recently announced some big changes to the .NET Foundation, and one of the biggest is that we’re moving to a community elected Board of Directors. **We're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community.** This structure will help the .NET Foundation scale and better serve the .NET ecosystem.
 
+{% if campaign_open %}
+
 **If you’re passionate about open source .NET, we’d like you to think about [running in the elections!](/campaign)**
+
+{% else %}
+
+The deadline has passed for new candidates to join the election. Board members serve for one year, so start thinking about whether you'd like to run for a board seat next year.
+
+{% endif %}
+
+{% if voting_open %}
+
+Voting is open, and members have received their ballots. If you'd like to vote in the election, [join the .NET Foundation](https://members.dotnetfoundation.org) as a voting member!
+
+{% endif %}
 
 ## What does the .NET Foundation Board Do?
 

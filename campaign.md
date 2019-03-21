@@ -1,10 +1,19 @@
 ---
 title: Interested in running?
+campaign_open: false
 ---
 
 # {{ page.title }}
 
+{% if campaign_open %}
+
 That's great! Here's the information you need to decide if you'd like to move forward.
+
+{% else %}
+
+The deadline has passed for new candidates to join the election. Board members serve for one year, so start thinking about whether you'd like to run for a board seat next year.
+
+{% endif %}
 
 ## Who Can Run for a Board Seat?
 
@@ -41,6 +50,10 @@ Yay! Okay, you'll need to submit a campaign statement to let us know you're runn
 
 Here's an [example campaign statement](/example.html) to get you started.
 
+{% if campaign_open %}
+
 <a href="https://github.com/dotnet-foundation/election/issues/new" class="site-button site-button--pink">Begin My Campaign Statement</a>
+
+{% endif %}
 
 Got questions? Feel free to reach out to us at [contact@dotnetfoundation.org](mailto:contact@dotnetfoundation.org).

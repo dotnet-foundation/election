@@ -11,7 +11,7 @@ That's great! Here's the information you need to decide if you'd like to move fo
 
 {% else %}
 
-The deadline has passed for new candidates to join the election. Board members serve for one year, so start thinking about whether you'd like to run for a board seat next year.
+**The deadline has passed for new candidates to join the election. Board members serve for one year, so start thinking about whether you'd like to run for a board seat next year.**
 
 {% endif %}
 

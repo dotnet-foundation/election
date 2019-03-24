@@ -29,7 +29,14 @@ The .NET Foundation is well positioned to broaden the .NET ecosystem. With your 
 * [RestBus](https://github.com/tenor/RestBus) -- The fastest (and easy to use) .NET RabbitMQ client. This project was the first to demonstrate that non-HTTP transports can be coupled efficiently with ASP.NET Core, ASP.NET MVC, and ServiceStack. 
 * I codified the [buffer pooling technique](http://www.ahuwanya.net/blog/post/Buffer-Pooling-for-NET-Socket-Operations) used by ASP.NET Kestrel Server. This technique influenced the [System.Buffers](https://docs.microsoft.com/en-us/dotnet/api/system.buffers?view=netcore-2.2) library.
 
- 
+
+## My Answers to Member Questions
+
+* [How would you provide specific help to open-source projects?](https://github.com/dotnet-foundation/election/issues/79#issuecomment-475704029)
+* [Broadening .NET's developer-base](https://github.com/dotnet-foundation/election/issues/91#issuecomment-475378658)
+* [Final Thoughts?](https://github.com/dotnet-foundation/election/issues/102#issuecomment-475721479)
+
+
 ## Links/Contact Information
 
 * [My Blog](http://www.ahuwanya.net/blog/)

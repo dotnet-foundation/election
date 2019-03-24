@@ -37,6 +37,8 @@ My answers to the member questions (might be behind, look at the questions when 
 * [International or cross-region communities collaboration](https://github.com/dotnet-foundation/election/issues/82#issuecomment-473877465)
 * [Broadening .NET's developer-base](https://github.com/dotnet-foundation/election/issues/91#issuecomment-474874987)
 * [Board of Directors Experience](https://github.com/dotnet-foundation/election/issues/95#issuecomment-475040089)
+* [Final thoughts](https://github.com/dotnet-foundation/election/issues/102#issuecomment-475544278) 
+* [Non-English .NET community experience](https://github.com/dotnet-foundation/election/issues/104#issuecomment-475998406)
 
 ## Links
 * [The Greenshot blog](https://getgreenshot.org/blog/)

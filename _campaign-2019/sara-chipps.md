@@ -2,6 +2,7 @@
 title: Sara Chipps
 layout: default
 image: https://avatars0.githubusercontent.com/u/110101?s=400&v=4
+elected: true
 ---
 
 # .NET Foundation Campaign: Sara Chipps

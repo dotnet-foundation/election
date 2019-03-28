@@ -2,6 +2,7 @@
 title: Oren Novotny
 layout: default
 image: https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Images/oren-novotny.jpg
+elected: true
 ---
 
 # .NET Foundation Campaign: Oren Novotny

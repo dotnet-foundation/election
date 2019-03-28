@@ -1,26 +1,16 @@
 ---
-permalink: /candidates
-title: Campaign Statements
+permalink: /results
+title: Election Results
 ---
 
-{% if site.campaign-2019.size == 0 %}
-### We're just getting started!
+### Meet your 2019 .NET Foundation Board of Directors!
 
-Hey, we just launched the election and are waiting for our first election statements. Interested in [joining the race?](/campaign)
-{% else %}
-### Here are the campaign statements for our candidates.
-Interested in joining the race? [Here's how to get started](/campaign).
-
-[![Gitter](https://badges.gitter.im/dotnet-foundation/election.svg)](https://gitter.im/dotnet-foundation/election?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-{% assign candidates = site.campaign-2019 %}
+{% assign candidates = site.campaign-2019 | where: "elected","true" %}
 
 <section class="card-container">
   {% for candidate in candidates %}
-    {% unless candidate.appointed %}
     <article class="card">
         <header class="card__title">
-            {{ candidate.appointed }}
             <h3>{{ candidate.title }}</h3>
         </header>
         <figure class="card__thumbnail">
@@ -32,11 +22,8 @@ Interested in joining the race? [Here's how to get started](/campaign).
         </figure>
         <a href="{{ candidate.url }}" class="card__button">Learn More</a>
     </article>
-    {% endunless %}
   {% endfor %}
 </section>
-
-{% endif %}
 
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {

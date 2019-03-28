@@ -2,6 +2,7 @@
 title: Ben Adams
 layout: default
 image: https://avatars2.githubusercontent.com/u/1142958?s=400&u=35ad462d9638ab4560868ec9c12087b7c0039c75&v=4
+elected: true
 ---
 
 # .NET Foundation Campaign: Ben Adams

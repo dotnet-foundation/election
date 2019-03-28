@@ -2,6 +2,7 @@
 title: Phil Haack
 layout: default
 image: https://avatars3.githubusercontent.com/u/19977?s=400&v=4
+elected: true
 ---
 
 # .NET Foundation Campaign: Phil Haack

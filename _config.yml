@@ -10,7 +10,7 @@ collections:
 google_analytics: UA-57261022-1
 
 campaign_open: false
-voting_open: true
+voting_open: false
 
 plugins:
   - jekyll-seo-tag

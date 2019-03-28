@@ -37,6 +37,8 @@ I'm a Microsoft Regional Director, and for 10 consecutive years I have been reco
 * [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
 
+## [Final thoughts](https://github.com/dotnet-foundation/election/issues/102#issuecomment-475711605)
+
 # (Español)
 ## Por qué me estoy postulando
 Me estoy postulando porque **me importa .NET, su presente y su futuro**.  Estoy completamente convencido que **.NET es la mejor plataforma de desarrollo para construir cualquier tipo de solución de software**, y el involucramiento y opinión por parte de toda la comunidad son esenciales para guiar los esfuerzos de desarrollo de esta fabulosa tecnología.
@@ -66,3 +68,5 @@ Soy un Microsoft Regional Director, y Microsoft MVP desde hace 10 años consecut
 * [Perfil de MVP](https://mvp.microsoft.com/en-us/PublicProfile/4028935?fullName=Rodrigo%20Diaz%20Concha)
 * [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
+
+## [Comentarios finales](https://github.com/dotnet-foundation/election/issues/102#issuecomment-475711605)
